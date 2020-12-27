@@ -10,16 +10,12 @@ function Hi() {
             <h3>Unordered List</h3>
             <ul>
               <li>one</li>
-
-
               <li>two</li>
               <li>three</li>
               <li>four</li>
             </ul>
             <p>When we add 5 and 3 through JS expression, answer is following:</p>
             <h4>{5+8}</h4>
-
-
          </div>
 }
 
